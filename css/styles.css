@@ -1,0 +1,39 @@
+.navbar-brand {
+  padding-right: 4vw;
+  padding-left: 4vw;
+  font-size: 2em;
+  font-weight: bold;
+}
+
+#header-nav {
+  background-color: lightgray;
+  border-radius: 0;
+  border: black 1px solid;
+}
+
+
+#nav-list li{
+	font-size: 1.4em;
+   border-top: 1px solid black;
+}
+
+.container {
+  width: 100%;
+}
+
+
+.cell {
+	background-color: lightgray;
+	margin-bottom: 15px;
+	padding: 0 1em 1em 1em;
+}
+
+.text-before-link {
+	margin-right: 0.5em;
+	font-weight: bold;
+}
+
+#button-right{
+   border: 1px black solid;
+   border-radius: 5px;
+}
